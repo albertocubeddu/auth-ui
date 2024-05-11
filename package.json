@@ -34,6 +34,6 @@
   },
   "packageManager": "pnpm@9.1.0",
   "peerDependencies": {
-    "typescript": "4.4.x || 4.5.x || 4.6.x"
+    "typescript": "4.4.x || 4.5.x || 4.6.x || 5.4.x"
   }
 }
